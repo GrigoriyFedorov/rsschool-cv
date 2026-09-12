@@ -164,3 +164,16 @@ section:not(:last-child) {
   background-color: #444445;
   color: #ffffff;
 }
+
+.footer {
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #4e6a5c;
+}
+
+.footer__year {
+  font-size: 30px;
+  font-weight: 900;
+}
